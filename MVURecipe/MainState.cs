@@ -1,4 +1,5 @@
 ﻿using System;
+
 namespace MVURecipe
 {
     public class MainState : BindingObject
@@ -21,4 +22,3 @@ namespace MVURecipe
         }
     }
 }
-
